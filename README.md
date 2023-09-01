@@ -7,10 +7,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=andrecmatz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 <div align="center">
+  
   <a href="https://github.com/artur-duart">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artur-duart&&theme=dracula" alt="artur-duart" /></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artur-duart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur-duart&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=artur-duart&&theme=dracula" alt="andrecmatz" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecmatz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecmatz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div align="center">  
