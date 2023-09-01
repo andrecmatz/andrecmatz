@@ -19,10 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecmatz&layout=compact&langs_count=7&theme=dracula"/>
 </div>ㅤㅤㅤㅤㅤㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤ
-### Main skills:
-![HTML](https://camo.githubusercontent.com/45e2dbe090c9af5fed72b44f1ffec97170cd0a8611595c52b6d56bd38d555fa7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3044313131373f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6162656c436f6c6f723d304431313137)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
