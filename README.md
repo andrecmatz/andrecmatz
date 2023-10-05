@@ -22,17 +22,11 @@
 
 <div align="center">ㅤㅤㅤㅤ
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrecmatz&&theme=tokyonight"/></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecmatz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecmatz&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecmatz&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <hr>
-
-<div align="center">ㅤㅤ
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrecmatz&&theme=dracula" alt="andrecmatz" /></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecmatz&layout=compact&langs_count=7&theme=dracula"/>
-</div>ㅤㅤㅤㅤㅤㅤ
-
-
+ㅤㅤ
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00f401&height=120&section=footer"/>ㅤㅤ
 ㅤㅤㅤㅤㅤㅤㅤ
