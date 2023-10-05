@@ -9,8 +9,8 @@
 
 <picture align="center">
   <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=andrecmatz&show_icons=true&theme=merko"
+    media="(prefers-color-scheme: merko)"
   />
   <source align="center"
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
