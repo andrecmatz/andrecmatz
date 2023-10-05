@@ -6,7 +6,7 @@
 
 ### Main Technical Skills:
 
-👨‍💻 Prior knowledge in HTML5, CSS3, JavaScript, React, SQL, JAVA, TypeScript
+👨‍💻 Prior knowledge in HTML5, CSS3, JavaScript, React, SQL, JAVA, TypeScript, Vue.js
 
 📘 Fluent in English with exchange experience in Dallas, TX
 
