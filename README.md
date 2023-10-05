@@ -7,7 +7,7 @@
 ### Contact me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrematzumura/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrecmatzumura@gmail.com)
-</div>
+
 
 <div align="center">ㅤㅤ
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrecmatz&&theme=dracula" alt="andrecmatz" /></p>
