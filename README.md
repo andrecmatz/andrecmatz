@@ -2,11 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00f401&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+André+Matzumura;I'm+18+years+old;I'm+from+Brazil,+Sao+Paulo;I+study+TIN++at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center"> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrecmatz&theme=merko&show_icons=true)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-ㅤㅤㅤㅤㅤㅤ
+</div>ㅤㅤ
+ㅤㅤ
 <div align="center">  
-<a href = "mailto:andrecmatzumura@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andrematzumura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href = "mailto:andrecmatzumura@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andrematzumura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>ㅤㅤㅤ
 ㅤㅤㅤㅤㅤㅤ
   <a href="https://github.com/andrecmatz">
