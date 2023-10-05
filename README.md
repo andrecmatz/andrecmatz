@@ -4,10 +4,29 @@
 
 <hr>
 
+### Main Technical Skills:
+
+👨‍💻 Prior knowledge in HTML5, CSS3, JavaScript, React, SQL, JAVA, TypeScript, Vue.js
+
+📘 Fluent in English with exchange experience in Dallas, TX
+
 ### Contact me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrematzumura/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrecmatzumura@gmail.com)
 
+<hr>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrecmatz&bg_color=1a1b27&color=00f401&line=38bdae&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<hr>
+
+<div align="center">ㅤㅤㅤㅤ
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andrecmatz&&theme=tokyonight"/></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecmatz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecmatz&layout=compact&langs_count=7&theme=merko"/>
+</div>
+
+<hr>
 
 <div align="center">ㅤㅤ
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrecmatz&&theme=dracula" alt="andrecmatz" /></p>
