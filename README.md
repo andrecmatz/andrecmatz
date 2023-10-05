@@ -6,18 +6,6 @@
   <a href = "mailto:andrecmatzumura@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrematzumura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>ㅤ
-
-<picture align="center">
-  <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api?username=andrecmatz&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: merko)"
-  />
-  <source align="center"
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>ㅤㅤ
 ㅤ
 <div align="center">ㅤㅤ
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrecmatz&&theme=dracula" alt="andrecmatz" /></p>
